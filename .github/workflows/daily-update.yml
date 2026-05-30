@@ -1,0 +1,49 @@
+name: Update World Cup results
+
+on:
+  schedule:
+    # Runs every day at 07:00 UTC (09:00 Madrid in summer / 08:00 in winter)
+    - cron: "0 7 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-results
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape Wikipedia and update data.json
+        run: python scripts/update_results.py
+
+      - name: Rebuild single-file HTML
+        run: python scripts/build_single_file.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data.json mundial-2026.html)" ]]; then
+            git add data.json mundial-2026.html
+            git commit -m "chore: daily auto-update from Wikipedia ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No changes."
+          fi

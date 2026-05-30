@@ -1,0 +1,638 @@
+{
+  "tournament": {
+    "name": "FIFA World Cup 2026",
+    "edition": "23",
+    "hosts": [
+      "United States",
+      "Mexico",
+      "Canada"
+    ],
+    "dates": {
+      "start": "2026-06-11",
+      "end": "2026-07-19"
+    },
+    "opening": {
+      "date": "2026-06-11",
+      "time": "13:00",
+      "venueUtcOffset": -6,
+      "venue": "Estadio Azteca, Mexico City",
+      "home": "MEX",
+      "away": "RSA",
+      "_timeNote": "Hora local (Ciudad de México, UTC-6). En Madrid serán las 21:00 CEST. Ajusta cuando FIFA publique los horarios definitivos."
+    },
+    "final": {
+      "date": "2026-07-19",
+      "time": "15:00",
+      "venueUtcOffset": -4,
+      "venue": "MetLife Stadium, New York/New Jersey"
+    },
+    "lastUpdated": "2026-05-30",
+    "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
+    "lastAutoUpdate": "2026-05-30T17:47:00Z"
+  },
+  "teams": [
+    {
+      "code": "MEX",
+      "name": "México",
+      "flag": "🇲🇽",
+      "confederation": "CONCACAF",
+      "pot": 1
+    },
+    {
+      "code": "CAN",
+      "name": "Canadá",
+      "flag": "🇨🇦",
+      "confederation": "CONCACAF",
+      "pot": 1
+    },
+    {
+      "code": "USA",
+      "name": "Estados Unidos",
+      "flag": "🇺🇸",
+      "confederation": "CONCACAF",
+      "pot": 1
+    },
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "confederation": "CONMEBOL",
+      "pot": 1
+    },
+    {
+      "code": "BRA",
+      "name": "Brasil",
+      "flag": "🇧🇷",
+      "confederation": "CONMEBOL",
+      "pot": 1
+    },
+    {
+      "code": "ESP",
+      "name": "España",
+      "flag": "🇪🇸",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "FRA",
+      "name": "Francia",
+      "flag": "🇫🇷",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "ENG",
+      "name": "Inglaterra",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "GER",
+      "name": "Alemania",
+      "flag": "🇩🇪",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "NED",
+      "name": "Países Bajos",
+      "flag": "🇳🇱",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "BEL",
+      "name": "Bélgica",
+      "flag": "🇧🇪",
+      "confederation": "UEFA",
+      "pot": 1
+    },
+    {
+      "code": "CRO",
+      "name": "Croacia",
+      "flag": "🇭🇷",
+      "confederation": "UEFA",
+      "pot": 2
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "confederation": "CONMEBOL",
+      "pot": 2
+    },
+    {
+      "code": "MAR",
+      "name": "Marruecos",
+      "flag": "🇲🇦",
+      "confederation": "CAF",
+      "pot": 2
+    },
+    {
+      "code": "JPN",
+      "name": "Japón",
+      "flag": "🇯🇵",
+      "confederation": "AFC",
+      "pot": 2
+    },
+    {
+      "code": "KOR",
+      "name": "Corea del Sur",
+      "flag": "🇰🇷",
+      "confederation": "AFC",
+      "pot": 2
+    },
+    {
+      "code": "EGY",
+      "name": "Egipto",
+      "flag": "🇪🇬",
+      "confederation": "CAF",
+      "pot": 2
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "confederation": "CONMEBOL",
+      "pot": 2
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "confederation": "CONMEBOL",
+      "pot": 2
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "confederation": "CAF",
+      "pot": 2
+    },
+    {
+      "code": "IRN",
+      "name": "Irán",
+      "flag": "🇮🇷",
+      "confederation": "AFC",
+      "pot": 2
+    },
+    {
+      "code": "SUI",
+      "name": "Suiza",
+      "flag": "🇨🇭",
+      "confederation": "UEFA",
+      "pot": 2
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "confederation": "AFC",
+      "pot": 2
+    },
+    {
+      "code": "TUN",
+      "name": "Túnez",
+      "flag": "🇹🇳",
+      "confederation": "CAF",
+      "pot": 3
+    },
+    {
+      "code": "CIV",
+      "name": "Costa de Marfil",
+      "flag": "🇨🇮",
+      "confederation": "CAF",
+      "pot": 3
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "confederation": "UEFA",
+      "pot": 3
+    },
+    {
+      "code": "TUR",
+      "name": "Turquía",
+      "flag": "🇹🇷",
+      "confederation": "UEFA",
+      "pot": 3
+    },
+    {
+      "code": "ALG",
+      "name": "Argelia",
+      "flag": "🇩🇿",
+      "confederation": "CAF",
+      "pot": 3
+    },
+    {
+      "code": "NOR",
+      "name": "Noruega",
+      "flag": "🇳🇴",
+      "confederation": "UEFA",
+      "pot": 3
+    },
+    {
+      "code": "RSA",
+      "name": "Sudáfrica",
+      "flag": "🇿🇦",
+      "confederation": "CAF",
+      "pot": 3
+    },
+    {
+      "code": "SCO",
+      "name": "Escocia",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "confederation": "UEFA",
+      "pot": 3
+    },
+    {
+      "code": "PAR",
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "confederation": "CONMEBOL",
+      "pot": 3
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "confederation": "CAF",
+      "pot": 3
+    },
+    {
+      "code": "PAN",
+      "name": "Panamá",
+      "flag": "🇵🇦",
+      "confederation": "CONCACAF",
+      "pot": 3
+    },
+    {
+      "code": "CZE",
+      "name": "Chequia",
+      "flag": "🇨🇿",
+      "confederation": "UEFA",
+      "pot": 3
+    },
+    {
+      "code": "UZB",
+      "name": "Uzbekistán",
+      "flag": "🇺🇿",
+      "confederation": "AFC",
+      "pot": 4
+    },
+    {
+      "code": "KSA",
+      "name": "Arabia Saudí",
+      "flag": "🇸🇦",
+      "confederation": "AFC",
+      "pot": 4
+    },
+    {
+      "code": "QAT",
+      "name": "Catar",
+      "flag": "🇶🇦",
+      "confederation": "AFC",
+      "pot": 4
+    },
+    {
+      "code": "NZL",
+      "name": "Nueva Zelanda",
+      "flag": "🇳🇿",
+      "confederation": "OFC",
+      "pot": 4
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia y Herzegovina",
+      "flag": "🇧🇦",
+      "confederation": "UEFA",
+      "pot": 4
+    },
+    {
+      "code": "JOR",
+      "name": "Jordania",
+      "flag": "🇯🇴",
+      "confederation": "AFC",
+      "pot": 4
+    },
+    {
+      "code": "IRQ",
+      "name": "Irak",
+      "flag": "🇮🇶",
+      "confederation": "AFC",
+      "pot": 4
+    },
+    {
+      "code": "HAI",
+      "name": "Haití",
+      "flag": "🇭🇹",
+      "confederation": "CONCACAF",
+      "pot": 4
+    },
+    {
+      "code": "SWE",
+      "name": "Suecia",
+      "flag": "🇸🇪",
+      "confederation": "UEFA",
+      "pot": 4
+    },
+    {
+      "code": "CUW",
+      "name": "Curazao",
+      "flag": "🇨🇼",
+      "confederation": "CONCACAF",
+      "pot": 4
+    },
+    {
+      "code": "CPV",
+      "name": "Cabo Verde",
+      "flag": "🇨🇻",
+      "confederation": "CAF",
+      "pot": 4
+    },
+    {
+      "code": "COD",
+      "name": "RD Congo",
+      "flag": "🇨🇩",
+      "confederation": "CAF",
+      "pot": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "A",
+      "teams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE"
+      ]
+    },
+    {
+      "id": "B",
+      "teams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    {
+      "id": "C",
+      "teams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    {
+      "id": "D",
+      "teams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR"
+      ]
+    },
+    {
+      "id": "E",
+      "teams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU"
+      ]
+    },
+    {
+      "id": "F",
+      "teams": [
+        "NED",
+        "JPN",
+        "SWE",
+        "TUN"
+      ]
+    },
+    {
+      "id": "G",
+      "teams": [
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    {
+      "id": "H",
+      "teams": [
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    {
+      "id": "I",
+      "teams": [
+        "FRA",
+        "SEN",
+        "IRQ",
+        "NOR"
+      ]
+    },
+    {
+      "id": "J",
+      "teams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    {
+      "id": "K",
+      "teams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    {
+      "id": "L",
+      "teams": [
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    }
+  ],
+  "_venuesNote": "utcOffset es el desfase respecto a UTC durante junio-julio 2026 (Madrid CEST = +2). México abolió DST en 2022, por eso CDMX/Guadalajara/Monterrey están a -6 todo el año. Resto de sedes en horario de verano: EDT=-4, CDT=-5, PDT=-7.",
+  "venues": [
+    {
+      "city": "Mexico City",
+      "stadium": "Estadio Azteca",
+      "country": "MEX",
+      "utcOffset": -6
+    },
+    {
+      "city": "Guadalajara",
+      "stadium": "Estadio Akron",
+      "country": "MEX",
+      "utcOffset": -6
+    },
+    {
+      "city": "Monterrey",
+      "stadium": "Estadio BBVA",
+      "country": "MEX",
+      "utcOffset": -6
+    },
+    {
+      "city": "Toronto",
+      "stadium": "BMO Field",
+      "country": "CAN",
+      "utcOffset": -4
+    },
+    {
+      "city": "Vancouver",
+      "stadium": "BC Place",
+      "country": "CAN",
+      "utcOffset": -7
+    },
+    {
+      "city": "Atlanta",
+      "stadium": "Mercedes-Benz Stadium",
+      "country": "USA",
+      "utcOffset": -4
+    },
+    {
+      "city": "Boston",
+      "stadium": "Gillette Stadium",
+      "country": "USA",
+      "utcOffset": -4
+    },
+    {
+      "city": "Dallas",
+      "stadium": "AT&T Stadium",
+      "country": "USA",
+      "utcOffset": -5
+    },
+    {
+      "city": "Houston",
+      "stadium": "NRG Stadium",
+      "country": "USA",
+      "utcOffset": -5
+    },
+    {
+      "city": "Kansas City",
+      "stadium": "Arrowhead Stadium",
+      "country": "USA",
+      "utcOffset": -5
+    },
+    {
+      "city": "Los Angeles",
+      "stadium": "SoFi Stadium",
+      "country": "USA",
+      "utcOffset": -7
+    },
+    {
+      "city": "Miami",
+      "stadium": "Hard Rock Stadium",
+      "country": "USA",
+      "utcOffset": -4
+    },
+    {
+      "city": "New York/NJ",
+      "stadium": "MetLife Stadium",
+      "country": "USA",
+      "utcOffset": -4
+    },
+    {
+      "city": "Philadelphia",
+      "stadium": "Lincoln Financial Field",
+      "country": "USA",
+      "utcOffset": -4
+    },
+    {
+      "city": "San Francisco",
+      "stadium": "Levi's Stadium",
+      "country": "USA",
+      "utcOffset": -7
+    },
+    {
+      "city": "Seattle",
+      "stadium": "Lumen Field",
+      "country": "USA",
+      "utcOffset": -7
+    }
+  ],
+  "schedule": {
+    "groupStage": {
+      "matchday1": {
+        "start": "2026-06-11",
+        "end": "2026-06-16"
+      },
+      "matchday2": {
+        "start": "2026-06-17",
+        "end": "2026-06-22"
+      },
+      "matchday3": {
+        "start": "2026-06-23",
+        "end": "2026-06-27"
+      }
+    },
+    "knockout": {
+      "R32": {
+        "start": "2026-06-28",
+        "end": "2026-07-03"
+      },
+      "R16": {
+        "start": "2026-07-04",
+        "end": "2026-07-07"
+      },
+      "QF": {
+        "start": "2026-07-09",
+        "end": "2026-07-11"
+      },
+      "SF": {
+        "start": "2026-07-14",
+        "end": "2026-07-15"
+      },
+      "3RD": {
+        "start": "2026-07-18",
+        "end": "2026-07-18"
+      },
+      "F": {
+        "start": "2026-07-19",
+        "end": "2026-07-19"
+      }
+    }
+  },
+  "results": {
+    "_comment": "Add match scores here as games are played. Key format: 'G<group>-MD<matchday>-<homeCode>-<awayCode>' for group stage, '<stage>-<slot>' for knockouts (e.g. 'R32-01'). Value: { home: <int>, away: <int>, scorers: [{ player, team, minute, type? }] }",
+    "_example": {
+      "GA-MD1-MEX-CRO": {
+        "home": 1,
+        "away": 1,
+        "played": false,
+        "scorers": []
+      }
+    }
+  },
+  "topScorers": {
+    "_comment": "Auto-computed from results.scorers. Manual overrides go in 'manual' array below if you want to track players who haven't scored yet but want visible.",
+    "manual": []
+  },
+  "liveResults": {}
+}
