@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-13T12:18:49Z"
+    "lastAutoUpdate": "2026-06-14T10:24:22Z"
   },
   "teams": [
     {
@@ -642,12 +642,12 @@
       "awayGoals": 0,
       "scorers": [
         {
-          "player": "Julián Quiñones",
+          "player": "Quiñones",
           "team": "MEX",
           "minute": 9
         },
         {
-          "player": "Raúl Jiménez",
+          "player": "Jiménez",
           "team": "MEX",
           "minute": 67
         }
@@ -670,7 +670,7 @@
           "minute": 80
         },
         {
-          "player": "Ladislav Krejčí (footballer, born 1999)",
+          "player": "Krejčí",
           "team": "CZE",
           "minute": 59
         }
@@ -694,6 +694,50 @@
         }
       ]
     },
+    "B-QAT-SUI": {
+      "home": "QAT",
+      "away": "SUI",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Embolo",
+          "team": "SUI",
+          "minute": 17
+        }
+      ]
+    },
+    "C-BRA-MAR": {
+      "home": "BRA",
+      "away": "MAR",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Vinícius",
+          "team": "BRA",
+          "minute": 32
+        },
+        {
+          "player": "Saibari",
+          "team": "MAR",
+          "minute": 21
+        }
+      ]
+    },
+    "C-HAI-SCO": {
+      "home": "HAI",
+      "away": "SCO",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "McGinn",
+          "team": "SCO",
+          "minute": 28
+        }
+      ]
+    },
     "D-PAR-USA": {
       "home": "USA",
       "away": "PAR",
@@ -714,6 +758,24 @@
           "player": "Maurício",
           "team": "PAR",
           "minute": 73
+        }
+      ]
+    },
+    "D-AUS-TUR": {
+      "home": "AUS",
+      "away": "TUR",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Irankunda",
+          "team": "AUS",
+          "minute": 27
+        },
+        {
+          "player": "Metcalfe",
+          "team": "AUS",
+          "minute": 75
         }
       ]
     }
