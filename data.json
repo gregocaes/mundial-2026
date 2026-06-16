@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-15T13:13:04Z"
+    "lastAutoUpdate": "2026-06-16T12:11:43Z"
   },
   "teams": [
     {
@@ -745,22 +745,17 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Damián Bobadilla",
+          "player": "Bobadilla",
           "team": "USA",
           "minute": 7
         },
         {
-          "player": "Folarin Balogun",
+          "player": "Balogun",
           "team": "USA",
           "minute": 31
         },
         {
-          "player": "Giovanni Reyna",
-          "team": "USA",
-          "minute": 90
-        },
-        {
-          "player": "Maurício (footballer, born 2001)",
+          "player": "Maurício",
           "team": "PAR",
           "minute": 73
         }
@@ -773,12 +768,12 @@
       "awayGoals": 0,
       "scorers": [
         {
-          "player": "Nestory Irankunda",
+          "player": "Irankunda",
           "team": "AUS",
           "minute": 27
         },
         {
-          "player": "Connor Metcalfe",
+          "player": "Metcalfe",
           "team": "AUS",
           "minute": 75
         }
@@ -791,37 +786,32 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Felix Nmecha",
+          "player": "Nmecha",
           "team": "GER",
           "minute": 6
         },
         {
-          "player": "Nico Schlotterbeck",
+          "player": "Schlotterbeck",
           "team": "GER",
           "minute": 38
         },
         {
-          "player": "Kai Havertz",
-          "team": "GER",
-          "minute": 45
-        },
-        {
-          "player": "Jamal Musiala",
+          "player": "Musiala",
           "team": "GER",
           "minute": 47
         },
         {
-          "player": "Nathaniel Brown (footballer)",
+          "player": "Brown",
           "team": "GER",
           "minute": 68
         },
         {
-          "player": "Deniz Undav",
+          "player": "Undav",
           "team": "GER",
           "minute": 78
         },
         {
-          "player": "Livano Comenencia",
+          "player": "Comenencia",
           "team": "CUW",
           "minute": 21
         }
@@ -834,7 +824,7 @@
       "awayGoals": 0,
       "scorers": [
         {
-          "player": "Amad Diallo",
+          "player": "A. Diallo",
           "team": "CIV",
           "minute": 90
         }
@@ -847,22 +837,22 @@
       "awayGoals": 2,
       "scorers": [
         {
-          "player": "Virgil van Dijk",
+          "player": "Van Dijk",
           "team": "NED",
           "minute": 50
         },
         {
-          "player": "Crysencio Summerville",
+          "player": "Summerville",
           "team": "NED",
           "minute": 64
         },
         {
-          "player": "Keito Nakamura",
+          "player": "Nakamura",
           "team": "JPN",
           "minute": 57
         },
         {
-          "player": "Daichi Kamada",
+          "player": "Kamada",
           "team": "JPN",
           "minute": 88
         }
@@ -875,29 +865,95 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Yasin Ayari",
+          "player": "Ayari",
           "team": "SWE",
           "minute": 7
         },
         {
-          "player": "Alexander Isak",
+          "player": "Isak",
           "team": "SWE",
           "minute": 30
         },
         {
-          "player": "Viktor Gyökeres",
+          "player": "Gyökeres",
           "team": "SWE",
           "minute": 59
         },
         {
-          "player": "Mattias Svanberg",
+          "player": "Svanberg",
           "team": "SWE",
           "minute": 84
         },
         {
-          "player": "Omar Rekik",
+          "player": "Rekik",
           "team": "TUN",
           "minute": 43
+        }
+      ]
+    },
+    "G-BEL-EGY": {
+      "home": "BEL",
+      "away": "EGY",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Mohamed Hany",
+          "team": "BEL",
+          "minute": 66
+        },
+        {
+          "player": "Emam Ashour",
+          "team": "EGY",
+          "minute": 19
+        }
+      ]
+    },
+    "G-IRN-NZL": {
+      "home": "IRN",
+      "away": "NZL",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Ramin Rezaeian",
+          "team": "IRN",
+          "minute": 32
+        },
+        {
+          "player": "Mohammad Mohebi",
+          "team": "IRN",
+          "minute": 64
+        },
+        {
+          "player": "Elijah Just",
+          "team": "NZL",
+          "minute": 7
+        }
+      ]
+    },
+    "H-CPV-ESP": {
+      "home": "ESP",
+      "away": "CPV",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "H-KSA-URU": {
+      "home": "KSA",
+      "away": "URU",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Abdulelah Al-Amri",
+          "team": "KSA",
+          "minute": 41
+        },
+        {
+          "player": "Maximiliano Araújo",
+          "team": "URU",
+          "minute": 80
         }
       ]
     }
