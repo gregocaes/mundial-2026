@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-16T12:11:43Z"
+    "lastAutoUpdate": "2026-06-17T11:47:09Z"
   },
   "teams": [
     {
@@ -824,7 +824,7 @@
       "awayGoals": 0,
       "scorers": [
         {
-          "player": "A. Diallo",
+          "player": "Diallo",
           "team": "CIV",
           "minute": 90
         }
@@ -898,12 +898,12 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Mohamed Hany",
+          "player": "Hany",
           "team": "BEL",
           "minute": 66
         },
         {
-          "player": "Emam Ashour",
+          "player": "Ashour",
           "team": "EGY",
           "minute": 19
         }
@@ -916,17 +916,17 @@
       "awayGoals": 2,
       "scorers": [
         {
-          "player": "Ramin Rezaeian",
+          "player": "Rezaeian",
           "team": "IRN",
           "minute": 32
         },
         {
-          "player": "Mohammad Mohebi",
+          "player": "Mohebi",
           "team": "IRN",
           "minute": 64
         },
         {
-          "player": "Elijah Just",
+          "player": "Just",
           "team": "NZL",
           "minute": 7
         }
@@ -946,14 +946,91 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Abdulelah Al-Amri",
+          "player": "Al-Amri",
           "team": "KSA",
           "minute": 41
         },
         {
-          "player": "Maximiliano Araújo",
+          "player": "M. Araújo",
           "team": "URU",
           "minute": 80
+        }
+      ]
+    },
+    "I-FRA-SEN": {
+      "home": "FRA",
+      "away": "SEN",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 66
+        },
+        {
+          "player": "Barcola",
+          "team": "FRA",
+          "minute": 82
+        }
+      ]
+    },
+    "I-IRQ-NOR": {
+      "home": "IRQ",
+      "away": "NOR",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Hussein",
+          "team": "IRQ",
+          "minute": 39
+        },
+        {
+          "player": "Haaland",
+          "team": "NOR",
+          "minute": 29
+        },
+        {
+          "player": "Østigård",
+          "team": "NOR",
+          "minute": 76
+        }
+      ]
+    },
+    "J-ALG-ARG": {
+      "home": "ARG",
+      "away": "ALG",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Messi",
+          "team": "ARG",
+          "minute": 17
+        }
+      ]
+    },
+    "J-AUT-JOR": {
+      "home": "AUT",
+      "away": "JOR",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Schmid",
+          "team": "AUT",
+          "minute": 20
+        },
+        {
+          "player": "Al-Arab",
+          "team": "AUT",
+          "minute": 76
+        },
+        {
+          "player": "Olwan",
+          "team": "JOR",
+          "minute": 50
         }
       ]
     }
