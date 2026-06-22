@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-21T10:28:50Z"
+    "lastAutoUpdate": "2026-06-22T12:49:32Z"
   },
   "teams": [
     {
@@ -1081,6 +1081,41 @@
         }
       ]
     },
+    "G-BEL-IRN": {
+      "home": "BEL",
+      "away": "IRN",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "G-EGY-NZL": {
+      "home": "NZL",
+      "away": "EGY",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Surman",
+          "team": "NZL",
+          "minute": 15
+        },
+        {
+          "player": "Ziko",
+          "team": "EGY",
+          "minute": 58
+        },
+        {
+          "player": "Salah",
+          "team": "EGY",
+          "minute": 67
+        },
+        {
+          "player": "Trézéguet",
+          "team": "EGY",
+          "minute": 82
+        }
+      ]
+    },
     "H-CPV-ESP": {
       "home": "ESP",
       "away": "CPV",
@@ -1103,6 +1138,52 @@
           "player": "M. Araújo",
           "team": "URU",
           "minute": 80
+        }
+      ]
+    },
+    "H-ESP-KSA": {
+      "home": "ESP",
+      "away": "KSA",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Yamal",
+          "team": "ESP",
+          "minute": 10
+        },
+        {
+          "player": "Oyarzabal",
+          "team": "ESP",
+          "minute": 21
+        },
+        {
+          "player": "Al-Tambakti",
+          "team": "ESP",
+          "minute": 49
+        }
+      ]
+    },
+    "H-CPV-URU": {
+      "home": "URU",
+      "away": "CPV",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "M. Araújo",
+          "team": "URU",
+          "minute": 44
+        },
+        {
+          "player": "K. Pina",
+          "team": "CPV",
+          "minute": 21
+        },
+        {
+          "player": "H. Varela",
+          "team": "CPV",
+          "minute": 61
         }
       ]
     },
