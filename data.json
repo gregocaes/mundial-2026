@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-22T12:49:32Z"
+    "lastAutoUpdate": "2026-06-23T10:36:21Z"
   },
   "teams": [
     {
@@ -1181,7 +1181,7 @@
           "minute": 21
         },
         {
-          "player": "H. Varela",
+          "player": "Varela",
           "team": "CPV",
           "minute": 61
         }
@@ -1228,6 +1228,47 @@
         }
       ]
     },
+    "I-FRA-IRQ": {
+      "home": "FRA",
+      "away": "IRQ",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 14
+        },
+        {
+          "player": "Dembélé",
+          "team": "FRA",
+          "minute": 66
+        }
+      ]
+    },
+    "I-NOR-SEN": {
+      "home": "NOR",
+      "away": "SEN",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Pedersen",
+          "team": "NOR",
+          "minute": 43
+        },
+        {
+          "player": "Haaland",
+          "team": "NOR",
+          "minute": 48
+        },
+        {
+          "player": "I. Sarr",
+          "team": "SEN",
+          "minute": 53
+        }
+      ]
+    },
     "J-ALG-ARG": {
       "home": "ARG",
       "away": "ALG",
@@ -1261,6 +1302,42 @@
           "player": "Olwan",
           "team": "JOR",
           "minute": 50
+        }
+      ]
+    },
+    "J-ARG-AUT": {
+      "home": "ARG",
+      "away": "AUT",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Messi",
+          "team": "ARG",
+          "minute": 38
+        }
+      ]
+    },
+    "J-ALG-JOR": {
+      "home": "JOR",
+      "away": "ALG",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Al-Rashdan",
+          "team": "JOR",
+          "minute": 36
+        },
+        {
+          "player": "Benbouali",
+          "team": "ALG",
+          "minute": 69
+        },
+        {
+          "player": "Gouiri",
+          "team": "ALG",
+          "minute": 82
         }
       ]
     },
