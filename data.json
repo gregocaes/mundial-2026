@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-25T10:15:00Z"
+    "lastAutoUpdate": "2026-06-26T10:22:44Z"
   },
   "teams": [
     {
@@ -1008,6 +1008,41 @@
         }
       ]
     },
+    "D-TUR-USA": {
+      "home": "TUR",
+      "away": "USA",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Güler",
+          "team": "TUR",
+          "minute": 10
+        },
+        {
+          "player": "Yılmaz",
+          "team": "TUR",
+          "minute": 31
+        },
+        {
+          "player": "Trusty",
+          "team": "USA",
+          "minute": 3
+        },
+        {
+          "player": "Berhalter",
+          "team": "USA",
+          "minute": 49
+        }
+      ]
+    },
+    "D-AUS-PAR": {
+      "home": "PAR",
+      "away": "AUS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
     "E-CUW-GER": {
       "home": "GER",
       "away": "CUW",
@@ -1083,6 +1118,42 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "scorers": []
+    },
+    "E-CIV-CUW": {
+      "home": "CUW",
+      "away": "CIV",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Pépé",
+          "team": "CIV",
+          "minute": 7
+        }
+      ]
+    },
+    "E-ECU-GER": {
+      "home": "ECU",
+      "away": "GER",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Angulo",
+          "team": "ECU",
+          "minute": 9
+        },
+        {
+          "player": "Plata",
+          "team": "ECU",
+          "minute": 77
+        },
+        {
+          "player": "Sané",
+          "team": "GER",
+          "minute": 2
+        }
+      ]
     },
     "F-JPN-NED": {
       "home": "NED",
@@ -1170,6 +1241,52 @@
           "player": "Elanga",
           "team": "SWE",
           "minute": 59
+        }
+      ]
+    },
+    "F-JPN-SWE": {
+      "home": "JPN",
+      "away": "SWE",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Maeda",
+          "team": "JPN",
+          "minute": 56
+        },
+        {
+          "player": "Elanga",
+          "team": "SWE",
+          "minute": 62
+        }
+      ]
+    },
+    "F-NED-TUN": {
+      "home": "TUN",
+      "away": "NED",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Mastouri",
+          "team": "TUN",
+          "minute": 54
+        },
+        {
+          "player": "Skhiri",
+          "team": "NED",
+          "minute": 3
+        },
+        {
+          "player": "Brobbey",
+          "team": "NED",
+          "minute": 7
+        },
+        {
+          "player": "Van Hecke",
+          "team": "NED",
+          "minute": 62
         }
       ]
     },
