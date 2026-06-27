@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-26T10:22:44Z"
+    "lastAutoUpdate": "2026-06-27T09:27:57Z"
   },
   "teams": [
     {
@@ -1366,6 +1366,52 @@
         }
       ]
     },
+    "G-EGY-IRN": {
+      "home": "EGY",
+      "away": "IRN",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Saber",
+          "team": "EGY",
+          "minute": 5
+        },
+        {
+          "player": "Rezaeian",
+          "team": "IRN",
+          "minute": 14
+        }
+      ]
+    },
+    "G-BEL-NZL": {
+      "home": "NZL",
+      "away": "BEL",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "scorers": [
+        {
+          "player": "Just",
+          "team": "NZL",
+          "minute": 84
+        },
+        {
+          "player": "Trossard",
+          "team": "BEL",
+          "minute": 28
+        },
+        {
+          "player": "De Bruyne",
+          "team": "BEL",
+          "minute": 66
+        },
+        {
+          "player": "Lukaku",
+          "team": "BEL",
+          "minute": 86
+        }
+      ]
+    },
     "H-CPV-ESP": {
       "home": "ESP",
       "away": "CPV",
@@ -1434,6 +1480,26 @@
           "player": "Varela",
           "team": "CPV",
           "minute": 61
+        }
+      ]
+    },
+    "H-CPV-KSA": {
+      "home": "CPV",
+      "away": "KSA",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "H-ESP-URU": {
+      "home": "URU",
+      "away": "ESP",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Baena",
+          "team": "ESP",
+          "minute": 42
         }
       ]
     },
@@ -1516,6 +1582,52 @@
           "player": "I. Sarr",
           "team": "SEN",
           "minute": 53
+        }
+      ]
+    },
+    "I-FRA-NOR": {
+      "home": "NOR",
+      "away": "FRA",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Aasgaard",
+          "team": "NOR",
+          "minute": 21
+        },
+        {
+          "player": "Dembélé",
+          "team": "FRA",
+          "minute": 7
+        }
+      ]
+    },
+    "I-IRQ-SEN": {
+      "home": "SEN",
+      "away": "IRQ",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Diarra",
+          "team": "SEN",
+          "minute": 4
+        },
+        {
+          "player": "I. Sarr",
+          "team": "SEN",
+          "minute": 56
+        },
+        {
+          "player": "P. Gueye",
+          "team": "SEN",
+          "minute": 59
+        },
+        {
+          "player": "I. Ndiaye",
+          "team": "SEN",
+          "minute": 82
         }
       ]
     },
