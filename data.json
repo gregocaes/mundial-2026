@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-06-28T09:56:44Z"
+    "lastAutoUpdate": "2026-06-29T11:58:06Z"
   },
   "teams": [
     {
@@ -634,5 +634,1367 @@
     "_comment": "Auto-computed from results.scorers. Manual overrides go in 'manual' array below if you want to track players who haven't scored yet but want visible.",
     "manual": []
   },
-  "liveResults": {}
+  "liveResults": {
+    "A-MEX-RSA": {
+      "home": "MEX",
+      "away": "RSA",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Quiñones",
+          "team": "MEX",
+          "minute": 9
+        },
+        {
+          "player": "Jiménez",
+          "team": "MEX",
+          "minute": 67
+        }
+      ]
+    },
+    "A-CZE-KOR": {
+      "home": "KOR",
+      "away": "CZE",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Hwang In-beom",
+          "team": "KOR",
+          "minute": 67
+        },
+        {
+          "player": "Oh Hyeon-gyu",
+          "team": "KOR",
+          "minute": 80
+        },
+        {
+          "player": "Krejčí",
+          "team": "CZE",
+          "minute": 59
+        }
+      ]
+    },
+    "A-CZE-RSA": {
+      "home": "CZE",
+      "away": "RSA",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Michal Sadílek",
+          "team": "CZE",
+          "minute": 6
+        },
+        {
+          "player": "Teboho Mokoena (soccer, born 1997)",
+          "team": "RSA",
+          "minute": 83
+        }
+      ]
+    },
+    "A-KOR-MEX": {
+      "home": "MEX",
+      "away": "KOR",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "A-CZE-MEX": {
+      "home": "CZE",
+      "away": "MEX",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "M. Chávez",
+          "team": "MEX",
+          "minute": 55
+        },
+        {
+          "player": "Quiñones",
+          "team": "MEX",
+          "minute": 61
+        }
+      ]
+    },
+    "A-KOR-RSA": {
+      "home": "RSA",
+      "away": "KOR",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Maseko",
+          "team": "RSA",
+          "minute": 63
+        }
+      ]
+    },
+    "B-BIH-CAN": {
+      "home": "CAN",
+      "away": "BIH",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Larin",
+          "team": "CAN",
+          "minute": 78
+        },
+        {
+          "player": "Lukić",
+          "team": "BIH",
+          "minute": 21
+        }
+      ]
+    },
+    "B-QAT-SUI": {
+      "home": "QAT",
+      "away": "SUI",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Embolo",
+          "team": "SUI",
+          "minute": 17
+        }
+      ]
+    },
+    "B-BIH-SUI": {
+      "home": "SUI",
+      "away": "BIH",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "scorers": []
+    },
+    "B-CAN-QAT": {
+      "home": "CAN",
+      "away": "QAT",
+      "homeGoals": 6,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "B-CAN-SUI": {
+      "home": "SUI",
+      "away": "CAN",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Vargas",
+          "team": "SUI",
+          "minute": 46
+        },
+        {
+          "player": "Manzambi",
+          "team": "SUI",
+          "minute": 57
+        },
+        {
+          "player": "P. David",
+          "team": "CAN",
+          "minute": 76
+        }
+      ]
+    },
+    "B-BIH-QAT": {
+      "home": "BIH",
+      "away": "QAT",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Alajbegović",
+          "team": "BIH",
+          "minute": 29
+        },
+        {
+          "player": "Abunada",
+          "team": "BIH",
+          "minute": 34
+        },
+        {
+          "player": "Mahmić",
+          "team": "BIH",
+          "minute": 80
+        },
+        {
+          "player": "Al-Haydos",
+          "team": "QAT",
+          "minute": 42
+        }
+      ]
+    },
+    "C-BRA-MAR": {
+      "home": "BRA",
+      "away": "MAR",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Vinícius",
+          "team": "BRA",
+          "minute": 32
+        },
+        {
+          "player": "Saibari",
+          "team": "MAR",
+          "minute": 21
+        }
+      ]
+    },
+    "C-HAI-SCO": {
+      "home": "HAI",
+      "away": "SCO",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "McGinn",
+          "team": "SCO",
+          "minute": 28
+        }
+      ]
+    },
+    "C-MAR-SCO": {
+      "home": "SCO",
+      "away": "MAR",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Saibari",
+          "team": "MAR",
+          "minute": 2
+        }
+      ]
+    },
+    "C-BRA-HAI": {
+      "home": "BRA",
+      "away": "HAI",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Cunha",
+          "team": "BRA",
+          "minute": 23
+        }
+      ]
+    },
+    "C-BRA-SCO": {
+      "home": "SCO",
+      "away": "BRA",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Vinícius",
+          "team": "BRA",
+          "minute": 7
+        },
+        {
+          "player": "Cunha",
+          "team": "BRA",
+          "minute": 60
+        }
+      ]
+    },
+    "C-HAI-MAR": {
+      "home": "MAR",
+      "away": "HAI",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Hakimi",
+          "team": "MAR",
+          "minute": 39
+        },
+        {
+          "player": "Rahimi",
+          "team": "MAR",
+          "minute": 78
+        },
+        {
+          "player": "Yassine",
+          "team": "MAR",
+          "minute": 89
+        },
+        {
+          "player": "Bounou",
+          "team": "HAI",
+          "minute": 10
+        },
+        {
+          "player": "Isidor",
+          "team": "HAI",
+          "minute": 43
+        }
+      ]
+    },
+    "D-PAR-USA": {
+      "home": "USA",
+      "away": "PAR",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Bobadilla",
+          "team": "USA",
+          "minute": 7
+        },
+        {
+          "player": "Balogun",
+          "team": "USA",
+          "minute": 31
+        },
+        {
+          "player": "Maurício",
+          "team": "PAR",
+          "minute": 73
+        }
+      ]
+    },
+    "D-AUS-TUR": {
+      "home": "AUS",
+      "away": "TUR",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Irankunda",
+          "team": "AUS",
+          "minute": 27
+        },
+        {
+          "player": "Metcalfe",
+          "team": "AUS",
+          "minute": 75
+        }
+      ]
+    },
+    "D-AUS-USA": {
+      "home": "USA",
+      "away": "AUS",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Burgess",
+          "team": "USA",
+          "minute": 11
+        },
+        {
+          "player": "Freeman",
+          "team": "USA",
+          "minute": 43
+        }
+      ]
+    },
+    "D-PAR-TUR": {
+      "home": "TUR",
+      "away": "PAR",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Galarza",
+          "team": "PAR",
+          "minute": 2
+        }
+      ]
+    },
+    "D-TUR-USA": {
+      "home": "TUR",
+      "away": "USA",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Güler",
+          "team": "TUR",
+          "minute": 10
+        },
+        {
+          "player": "Yılmaz",
+          "team": "TUR",
+          "minute": 31
+        },
+        {
+          "player": "Trusty",
+          "team": "USA",
+          "minute": 3
+        },
+        {
+          "player": "Berhalter",
+          "team": "USA",
+          "minute": 49
+        }
+      ]
+    },
+    "D-AUS-PAR": {
+      "home": "PAR",
+      "away": "AUS",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "E-CUW-GER": {
+      "home": "GER",
+      "away": "CUW",
+      "homeGoals": 7,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Nmecha",
+          "team": "GER",
+          "minute": 6
+        },
+        {
+          "player": "Schlotterbeck",
+          "team": "GER",
+          "minute": 38
+        },
+        {
+          "player": "Musiala",
+          "team": "GER",
+          "minute": 47
+        },
+        {
+          "player": "Brown",
+          "team": "GER",
+          "minute": 68
+        },
+        {
+          "player": "Undav",
+          "team": "GER",
+          "minute": 78
+        },
+        {
+          "player": "Comenencia",
+          "team": "CUW",
+          "minute": 21
+        }
+      ]
+    },
+    "E-CIV-ECU": {
+      "home": "CIV",
+      "away": "ECU",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Diallo",
+          "team": "CIV",
+          "minute": 90
+        }
+      ]
+    },
+    "E-CIV-GER": {
+      "home": "GER",
+      "away": "CIV",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Undav",
+          "team": "GER",
+          "minute": 68
+        },
+        {
+          "player": "Kessié",
+          "team": "CIV",
+          "minute": 30
+        }
+      ]
+    },
+    "E-CUW-ECU": {
+      "home": "ECU",
+      "away": "CUW",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "E-CIV-CUW": {
+      "home": "CUW",
+      "away": "CIV",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Pépé",
+          "team": "CIV",
+          "minute": 7
+        }
+      ]
+    },
+    "E-ECU-GER": {
+      "home": "ECU",
+      "away": "GER",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Angulo",
+          "team": "ECU",
+          "minute": 9
+        },
+        {
+          "player": "Plata",
+          "team": "ECU",
+          "minute": 77
+        },
+        {
+          "player": "Sané",
+          "team": "GER",
+          "minute": 2
+        }
+      ]
+    },
+    "F-JPN-NED": {
+      "home": "NED",
+      "away": "JPN",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Van Dijk",
+          "team": "NED",
+          "minute": 51
+        },
+        {
+          "player": "Summerville",
+          "team": "NED",
+          "minute": 64
+        },
+        {
+          "player": "Nakamura",
+          "team": "JPN",
+          "minute": 57
+        },
+        {
+          "player": "Kamada",
+          "team": "JPN",
+          "minute": 88
+        }
+      ]
+    },
+    "F-SWE-TUN": {
+      "home": "SWE",
+      "away": "TUN",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Ayari",
+          "team": "SWE",
+          "minute": 7
+        },
+        {
+          "player": "Isak",
+          "team": "SWE",
+          "minute": 30
+        },
+        {
+          "player": "Gyökeres",
+          "team": "SWE",
+          "minute": 59
+        },
+        {
+          "player": "Svanberg",
+          "team": "SWE",
+          "minute": 84
+        },
+        {
+          "player": "Rekik",
+          "team": "TUN",
+          "minute": 43
+        }
+      ]
+    },
+    "F-NED-SWE": {
+      "home": "NED",
+      "away": "SWE",
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Brobbey",
+          "team": "NED",
+          "minute": 5
+        },
+        {
+          "player": "Gakpo",
+          "team": "NED",
+          "minute": 47
+        },
+        {
+          "player": "Summerville",
+          "team": "NED",
+          "minute": 89
+        },
+        {
+          "player": "Elanga",
+          "team": "SWE",
+          "minute": 59
+        }
+      ]
+    },
+    "F-JPN-TUN": {
+      "home": "TUN",
+      "away": "JPN",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Daichi Kamada",
+          "team": "JPN",
+          "minute": 4
+        },
+        {
+          "player": "Ayase Ueda",
+          "team": "JPN",
+          "minute": 31
+        },
+        {
+          "player": "Junya Itō",
+          "team": "JPN",
+          "minute": 69
+        }
+      ]
+    },
+    "F-JPN-SWE": {
+      "home": "JPN",
+      "away": "SWE",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Maeda",
+          "team": "JPN",
+          "minute": 56
+        },
+        {
+          "player": "Elanga",
+          "team": "SWE",
+          "minute": 62
+        }
+      ]
+    },
+    "F-NED-TUN": {
+      "home": "TUN",
+      "away": "NED",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Mastouri",
+          "team": "TUN",
+          "minute": 54
+        },
+        {
+          "player": "Skhiri",
+          "team": "NED",
+          "minute": 3
+        },
+        {
+          "player": "Brobbey",
+          "team": "NED",
+          "minute": 7
+        },
+        {
+          "player": "Van Hecke",
+          "team": "NED",
+          "minute": 62
+        }
+      ]
+    },
+    "G-BEL-EGY": {
+      "home": "BEL",
+      "away": "EGY",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Hany",
+          "team": "BEL",
+          "minute": 66
+        },
+        {
+          "player": "Ashour",
+          "team": "EGY",
+          "minute": 19
+        }
+      ]
+    },
+    "G-IRN-NZL": {
+      "home": "IRN",
+      "away": "NZL",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Rezaeian",
+          "team": "IRN",
+          "minute": 32
+        },
+        {
+          "player": "Mohebi",
+          "team": "IRN",
+          "minute": 64
+        },
+        {
+          "player": "Just",
+          "team": "NZL",
+          "minute": 7
+        }
+      ]
+    },
+    "G-BEL-IRN": {
+      "home": "BEL",
+      "away": "IRN",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "G-EGY-NZL": {
+      "home": "NZL",
+      "away": "EGY",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Surman",
+          "team": "NZL",
+          "minute": 15
+        },
+        {
+          "player": "Ziko",
+          "team": "EGY",
+          "minute": 58
+        },
+        {
+          "player": "Salah",
+          "team": "EGY",
+          "minute": 67
+        },
+        {
+          "player": "Trézéguet",
+          "team": "EGY",
+          "minute": 82
+        }
+      ]
+    },
+    "G-EGY-IRN": {
+      "home": "EGY",
+      "away": "IRN",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Saber",
+          "team": "EGY",
+          "minute": 5
+        },
+        {
+          "player": "Rezaeian",
+          "team": "IRN",
+          "minute": 14
+        }
+      ]
+    },
+    "G-BEL-NZL": {
+      "home": "NZL",
+      "away": "BEL",
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "scorers": [
+        {
+          "player": "Just",
+          "team": "NZL",
+          "minute": 84
+        },
+        {
+          "player": "Trossard",
+          "team": "BEL",
+          "minute": 28
+        },
+        {
+          "player": "De Bruyne",
+          "team": "BEL",
+          "minute": 66
+        },
+        {
+          "player": "Lukaku",
+          "team": "BEL",
+          "minute": 86
+        }
+      ]
+    },
+    "H-CPV-ESP": {
+      "home": "ESP",
+      "away": "CPV",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "H-KSA-URU": {
+      "home": "KSA",
+      "away": "URU",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Al-Amri",
+          "team": "KSA",
+          "minute": 41
+        },
+        {
+          "player": "M. Araújo",
+          "team": "URU",
+          "minute": 80
+        }
+      ]
+    },
+    "H-ESP-KSA": {
+      "home": "ESP",
+      "away": "KSA",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Yamal",
+          "team": "ESP",
+          "minute": 10
+        },
+        {
+          "player": "Oyarzabal",
+          "team": "ESP",
+          "minute": 21
+        },
+        {
+          "player": "Al-Tambakti",
+          "team": "ESP",
+          "minute": 49
+        }
+      ]
+    },
+    "H-CPV-URU": {
+      "home": "URU",
+      "away": "CPV",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "M. Araújo",
+          "team": "URU",
+          "minute": 44
+        },
+        {
+          "player": "K. Pina",
+          "team": "CPV",
+          "minute": 21
+        },
+        {
+          "player": "Varela",
+          "team": "CPV",
+          "minute": 61
+        }
+      ]
+    },
+    "H-CPV-KSA": {
+      "home": "CPV",
+      "away": "KSA",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "H-ESP-URU": {
+      "home": "URU",
+      "away": "ESP",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Baena",
+          "team": "ESP",
+          "minute": 42
+        }
+      ]
+    },
+    "I-FRA-SEN": {
+      "home": "FRA",
+      "away": "SEN",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 66
+        },
+        {
+          "player": "Barcola",
+          "team": "FRA",
+          "minute": 82
+        }
+      ]
+    },
+    "I-IRQ-NOR": {
+      "home": "IRQ",
+      "away": "NOR",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Hussein",
+          "team": "IRQ",
+          "minute": 39
+        },
+        {
+          "player": "Haaland",
+          "team": "NOR",
+          "minute": 29
+        },
+        {
+          "player": "Østigård",
+          "team": "NOR",
+          "minute": 76
+        }
+      ]
+    },
+    "I-FRA-IRQ": {
+      "home": "FRA",
+      "away": "IRQ",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 14
+        },
+        {
+          "player": "Dembélé",
+          "team": "FRA",
+          "minute": 66
+        }
+      ]
+    },
+    "I-NOR-SEN": {
+      "home": "NOR",
+      "away": "SEN",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Pedersen",
+          "team": "NOR",
+          "minute": 43
+        },
+        {
+          "player": "Haaland",
+          "team": "NOR",
+          "minute": 48
+        },
+        {
+          "player": "I. Sarr",
+          "team": "SEN",
+          "minute": 53
+        }
+      ]
+    },
+    "I-FRA-NOR": {
+      "home": "NOR",
+      "away": "FRA",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Aasgaard",
+          "team": "NOR",
+          "minute": 21
+        },
+        {
+          "player": "Dembélé",
+          "team": "FRA",
+          "minute": 7
+        }
+      ]
+    },
+    "I-IRQ-SEN": {
+      "home": "SEN",
+      "away": "IRQ",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Diarra",
+          "team": "SEN",
+          "minute": 4
+        },
+        {
+          "player": "I. Sarr",
+          "team": "SEN",
+          "minute": 56
+        },
+        {
+          "player": "P. Gueye",
+          "team": "SEN",
+          "minute": 59
+        },
+        {
+          "player": "I. Ndiaye",
+          "team": "SEN",
+          "minute": 82
+        }
+      ]
+    },
+    "J-ALG-ARG": {
+      "home": "ARG",
+      "away": "ALG",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Messi",
+          "team": "ARG",
+          "minute": 17
+        }
+      ]
+    },
+    "J-AUT-JOR": {
+      "home": "AUT",
+      "away": "JOR",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Schmid",
+          "team": "AUT",
+          "minute": 20
+        },
+        {
+          "player": "Al-Arab",
+          "team": "AUT",
+          "minute": 76
+        },
+        {
+          "player": "Olwan",
+          "team": "JOR",
+          "minute": 50
+        }
+      ]
+    },
+    "J-ARG-AUT": {
+      "home": "ARG",
+      "away": "AUT",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Messi",
+          "team": "ARG",
+          "minute": 38
+        }
+      ]
+    },
+    "J-ALG-JOR": {
+      "home": "JOR",
+      "away": "ALG",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Al-Rashdan",
+          "team": "JOR",
+          "minute": 36
+        },
+        {
+          "player": "Benbouali",
+          "team": "ALG",
+          "minute": 69
+        },
+        {
+          "player": "Gouiri",
+          "team": "ALG",
+          "minute": 82
+        }
+      ]
+    },
+    "J-ALG-AUT": {
+      "home": "ALG",
+      "away": "AUT",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Belghali",
+          "team": "ALG",
+          "minute": 45
+        },
+        {
+          "player": "Mahrez",
+          "team": "ALG",
+          "minute": 60
+        },
+        {
+          "player": "Arnautović",
+          "team": "AUT",
+          "minute": 28
+        },
+        {
+          "player": "Sabitzer",
+          "team": "AUT",
+          "minute": 55
+        }
+      ]
+    },
+    "J-ARG-JOR": {
+      "home": "JOR",
+      "away": "ARG",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Al-Taamari",
+          "team": "JOR",
+          "minute": 55
+        },
+        {
+          "player": "Lo Celso",
+          "team": "ARG",
+          "minute": 19
+        },
+        {
+          "player": "La. Martínez",
+          "team": "ARG",
+          "minute": 31
+        },
+        {
+          "player": "Messi",
+          "team": "ARG",
+          "minute": 80
+        }
+      ]
+    },
+    "K-COD-POR": {
+      "home": "POR",
+      "away": "COD",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "J. Neves",
+          "team": "POR",
+          "minute": 6
+        }
+      ]
+    },
+    "K-COL-UZB": {
+      "home": "UZB",
+      "away": "COL",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Abbosbek Fayzullaev",
+          "team": "UZB",
+          "minute": 60
+        },
+        {
+          "player": "Daniel Muñoz (footballer)",
+          "team": "COL",
+          "minute": 40
+        },
+        {
+          "player": "Luis Díaz (footballer, born 1997)",
+          "team": "COL",
+          "minute": 65
+        },
+        {
+          "player": "Jaminton Campaz",
+          "team": "COL",
+          "minute": 90
+        }
+      ]
+    },
+    "K-POR-UZB": {
+      "home": "POR",
+      "away": "UZB",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Ronaldo",
+          "team": "POR",
+          "minute": 6
+        },
+        {
+          "player": "Mendes",
+          "team": "POR",
+          "minute": 17
+        },
+        {
+          "player": "Nematov",
+          "team": "POR",
+          "minute": 60
+        },
+        {
+          "player": "Leão",
+          "team": "POR",
+          "minute": 87
+        }
+      ]
+    },
+    "K-COD-COL": {
+      "home": "COL",
+      "away": "COD",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Muñoz",
+          "team": "COL",
+          "minute": 76
+        }
+      ]
+    },
+    "K-COL-POR": {
+      "home": "COL",
+      "away": "POR",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "K-COD-UZB": {
+      "home": "COD",
+      "away": "UZB",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Wissa",
+          "team": "COD",
+          "minute": 68
+        },
+        {
+          "player": "Mayele",
+          "team": "COD",
+          "minute": 78
+        },
+        {
+          "player": "Shomurodov",
+          "team": "UZB",
+          "minute": 10
+        }
+      ]
+    },
+    "L-CRO-ENG": {
+      "home": "ENG",
+      "away": "CRO",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Kane",
+          "team": "ENG",
+          "minute": 12
+        },
+        {
+          "player": "Bellingham",
+          "team": "ENG",
+          "minute": 47
+        },
+        {
+          "player": "Rashford",
+          "team": "ENG",
+          "minute": 85
+        },
+        {
+          "player": "Baturina",
+          "team": "CRO",
+          "minute": 36
+        }
+      ]
+    },
+    "L-GHA-PAN": {
+      "home": "GHA",
+      "away": "PAN",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Caleb Yirenkyi",
+          "team": "GHA",
+          "minute": 90
+        }
+      ]
+    },
+    "L-ENG-GHA": {
+      "home": "ENG",
+      "away": "GHA",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "scorers": []
+    },
+    "L-CRO-PAN": {
+      "home": "PAN",
+      "away": "CRO",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Budimir",
+          "team": "CRO",
+          "minute": 54
+        }
+      ]
+    },
+    "L-ENG-PAN": {
+      "home": "PAN",
+      "away": "ENG",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Jude Bellingham",
+          "team": "ENG",
+          "minute": 62
+        },
+        {
+          "player": "Harry Kane",
+          "team": "ENG",
+          "minute": 67
+        }
+      ]
+    },
+    "L-CRO-GHA": {
+      "home": "CRO",
+      "away": "GHA",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "P. Sučić",
+          "team": "CRO",
+          "minute": 31
+        },
+        {
+          "player": "Vlašić",
+          "team": "CRO",
+          "minute": 83
+        },
+        {
+          "player": "Luckassen",
+          "team": "GHA",
+          "minute": 73
+        }
+      ]
+    }
+  }
 }
