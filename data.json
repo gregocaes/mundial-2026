@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-01T10:41:02Z"
+    "lastAutoUpdate": "2026-07-02T10:09:54Z"
   },
   "teams": [
     {
@@ -1891,108 +1891,6 @@
           "player": "Shomurodov",
           "team": "UZB",
           "minute": 10
-        }
-      ]
-    },
-    "L-CRO-ENG": {
-      "home": "ENG",
-      "away": "CRO",
-      "homeGoals": 4,
-      "awayGoals": 2,
-      "scorers": [
-        {
-          "player": "Kane",
-          "team": "ENG",
-          "minute": 12
-        },
-        {
-          "player": "Bellingham",
-          "team": "ENG",
-          "minute": 47
-        },
-        {
-          "player": "Rashford",
-          "team": "ENG",
-          "minute": 85
-        },
-        {
-          "player": "Baturina",
-          "team": "CRO",
-          "minute": 36
-        }
-      ]
-    },
-    "L-GHA-PAN": {
-      "home": "GHA",
-      "away": "PAN",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "scorers": [
-        {
-          "player": "Caleb Yirenkyi",
-          "team": "GHA",
-          "minute": 90
-        }
-      ]
-    },
-    "L-ENG-GHA": {
-      "home": "ENG",
-      "away": "GHA",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "scorers": []
-    },
-    "L-CRO-PAN": {
-      "home": "PAN",
-      "away": "CRO",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "scorers": [
-        {
-          "player": "Budimir",
-          "team": "CRO",
-          "minute": 54
-        }
-      ]
-    },
-    "L-ENG-PAN": {
-      "home": "PAN",
-      "away": "ENG",
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "scorers": [
-        {
-          "player": "Jude Bellingham",
-          "team": "ENG",
-          "minute": 62
-        },
-        {
-          "player": "Harry Kane",
-          "team": "ENG",
-          "minute": 67
-        }
-      ]
-    },
-    "L-CRO-GHA": {
-      "home": "CRO",
-      "away": "GHA",
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "scorers": [
-        {
-          "player": "P. Sučić",
-          "team": "CRO",
-          "minute": 31
-        },
-        {
-          "player": "Vlašić",
-          "team": "CRO",
-          "minute": 83
-        },
-        {
-          "player": "Luckassen",
-          "team": "GHA",
-          "minute": 73
         }
       ]
     }
