@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-04T09:22:20Z"
+    "lastAutoUpdate": "2026-07-05T09:41:52Z"
   },
   "teams": [
     {
@@ -1993,6 +1993,32 @@
           "player": "Luckassen",
           "team": "GHA",
           "minute": 73
+        }
+      ]
+    },
+    "KO-CAN-MAR": {
+      "home": "CAN",
+      "away": "MAR",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "scorers": [
+        {
+          "player": "Ounahi",
+          "team": "MAR",
+          "minute": 50
+        }
+      ]
+    },
+    "KO-FRA-PAR": {
+      "home": "PAR",
+      "away": "FRA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 70
         }
       ]
     }
