@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-06T11:27:05Z"
+    "lastAutoUpdate": "2026-07-07T10:25:19Z"
   },
   "teams": [
     {
@@ -2060,6 +2060,36 @@
           "player": "Kane",
           "team": "ENG",
           "minute": 60
+        }
+      ]
+    },
+    "KO-ESP-POR": {
+      "home": "POR",
+      "away": "ESP",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "scorers": []
+    },
+    "KO-BEL-USA": {
+      "home": "USA",
+      "away": "BEL",
+      "homeGoals": 1,
+      "awayGoals": 4,
+      "scorers": [
+        {
+          "player": "Tillman",
+          "team": "USA",
+          "minute": 31
+        },
+        {
+          "player": "De Ketelaere",
+          "team": "BEL",
+          "minute": 9
+        },
+        {
+          "player": "Vanaken",
+          "team": "BEL",
+          "minute": 57
         }
       ]
     }
