@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-09T10:29:29Z"
+    "lastAutoUpdate": "2026-07-10T10:22:36Z"
   },
   "teams": [
     {
@@ -2127,6 +2127,24 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "scorers": []
+    },
+    "KO-FRA-MAR": {
+      "home": "FRA",
+      "away": "MAR",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 60
+        },
+        {
+          "player": "Dembélé",
+          "team": "FRA",
+          "minute": 66
+        }
+      ]
     }
   }
 }
