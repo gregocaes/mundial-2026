@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-11T08:46:00Z"
+    "lastAutoUpdate": "2026-07-12T09:02:07Z"
   },
   "teams": [
     {
@@ -2153,7 +2153,7 @@
       "awayGoals": 1,
       "scorers": [
         {
-          "player": "Ruiz",
+          "player": "Fabián",
           "team": "ESP",
           "minute": 30
         },
@@ -2166,6 +2166,42 @@
           "player": "De Ketelaere",
           "team": "BEL",
           "minute": 41
+        }
+      ]
+    },
+    "KO-ENG-NOR": {
+      "home": "NOR",
+      "away": "ENG",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Schjelderup",
+          "team": "NOR",
+          "minute": 36
+        }
+      ]
+    },
+    "KO-ARG-SUI": {
+      "home": "ARG",
+      "away": "SUI",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "scorers": [
+        {
+          "player": "Mac Allister",
+          "team": "ARG",
+          "minute": 10
+        },
+        {
+          "player": "Alvarez",
+          "team": "ARG",
+          "minute": 112
+        },
+        {
+          "player": "Ndoye",
+          "team": "SUI",
+          "minute": 67
         }
       ]
     }
