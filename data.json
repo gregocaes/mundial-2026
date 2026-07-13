@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-12T09:02:07Z"
+    "lastAutoUpdate": "2026-07-13T10:24:56Z"
   },
   "teams": [
     {
@@ -2003,9 +2003,14 @@
       "awayGoals": 3,
       "scorers": [
         {
-          "player": "Ounahi",
+          "player": "Azzedine Ounahi",
           "team": "MAR",
           "minute": 50
+        },
+        {
+          "player": "Soufiane Rahimi",
+          "team": "MAR",
+          "minute": 90
         }
       ]
     },
