@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-15T09:08:28Z"
+    "lastAutoUpdate": "2026-07-16T09:12:22Z"
   },
   "teams": [
     {
@@ -2220,6 +2220,24 @@
           "player": "Porro",
           "team": "ESP",
           "minute": 58
+        }
+      ]
+    },
+    "KO-ARG-ENG": {
+      "home": "ENG",
+      "away": "ARG",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "scorers": [
+        {
+          "player": "Gordon",
+          "team": "ENG",
+          "minute": 55
+        },
+        {
+          "player": "Fernández",
+          "team": "ARG",
+          "minute": 85
         }
       ]
     }
