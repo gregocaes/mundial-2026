@@ -28,7 +28,7 @@
     },
     "lastUpdated": "2026-05-30",
     "_groupsSource": "Grupos reales del sorteo del 5 de diciembre de 2025, extraídos de los artículos individuales de Wikipedia (Group A–L). Verificado: 48 equipos, sin duplicados.",
-    "lastAutoUpdate": "2026-07-18T08:47:29Z"
+    "lastAutoUpdate": "2026-07-19T09:04:17Z"
   },
   "teams": [
     {
@@ -1020,7 +1020,7 @@
           "minute": 10
         },
         {
-          "player": "Yılmaz",
+          "player": "Kökcü",
           "team": "TUR",
           "minute": 31
         },
@@ -2238,6 +2238,39 @@
           "player": "Fernández",
           "team": "ARG",
           "minute": 85
+        }
+      ]
+    },
+    "KO-ENG-FRA": {
+      "home": "FRA",
+      "away": "ENG",
+      "homeGoals": 4,
+      "awayGoals": 6,
+      "scorers": [
+        {
+          "player": "Mbappé",
+          "team": "FRA",
+          "minute": 48
+        },
+        {
+          "player": "Barcola",
+          "team": "FRA",
+          "minute": 54
+        },
+        {
+          "player": "Rice",
+          "team": "ENG",
+          "minute": 3
+        },
+        {
+          "player": "Konsa",
+          "team": "ENG",
+          "minute": 18
+        },
+        {
+          "player": "Saka",
+          "team": "ENG",
+          "minute": 37
         }
       ]
     }
